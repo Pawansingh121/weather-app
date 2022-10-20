@@ -50,7 +50,7 @@ function App() {
 
           <div className="flex flex-col">
             <input
-              className="m-auto w-[170px] lg:w-[300px] overflow-hidden p-1 rounded focus:outline-none "
+              className="m-auto w-[172px] lg:w-[300px] overflow-hidden p-1 rounded focus:outline-none "
               type="text"
               value={inputCity}
               placeholder="City Name"
